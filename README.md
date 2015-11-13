@@ -1,2 +1,3 @@
-# verdant-octo-kidney
-Mc-Tag's corp. first and main repository
+# WELCOME TO MC-TAG'S CORP.
+
+Mc-Tag's corporation first and main repository
